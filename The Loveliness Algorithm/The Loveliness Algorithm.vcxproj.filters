@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{4dc9a736-3145-4c8d-9285-dc9e1092475e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu Files">
+      <UniqueIdentifier>{decdb128-db0c-4693-82ad-b6e43f438089}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba1.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba2.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba3.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba4.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba5.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba6.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba7.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuLaba8.cpp">
+      <Filter>Menu Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceLaba8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyIncludes.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderLaba8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DiagramLaba7.cd">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="DiagramLaba8.cd">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

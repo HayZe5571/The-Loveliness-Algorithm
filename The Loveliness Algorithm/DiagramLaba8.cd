@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GalleryException">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACABAAAAAAAAAAAAAAAAAAAAAAAAQAAACA=</HashCode>
+      <FileName>HeaderLaba8.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exhibit">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFBAAAQAAATEAAAgAIgRACAQAAgBAACAAAQAQBaAA=</HashCode>
+      <FileName>HeaderLaba8.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Painting">
+    <Position X="6.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAQAFAAAQAAEQAQAQAAIAQAAAQAEQBAEAAAAQABAABA=</HashCode>
+      <FileName>HeaderLaba8.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sculpture">
+    <Position X="4.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABAAAACCAQEgAAAAIIAAAAQQAABAgACAAQABAAgA=</HashCode>
+      <FileName>HeaderLaba8.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExhibitionHall">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFQAAAAAAAQAIAIAIIEAAAAACIABEgAACAQIBAABM=</HashCode>
+      <FileName>HeaderLaba8.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vehicle_7">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIIAIEAAAAAQAAAAAgAAAAgAAAQAAAACAAQCACIAAA=</HashCode>
+      <FileName>HeaderLaba7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_7">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQQAABAAAABQAgAAAAAAABAAAQAAAAAAA=</HashCode>
+      <FileName>HeaderLaba7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truck_7">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAQAIAEAABAAEgAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>HeaderLaba7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer_7">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABAAAQQAAAEAAAAcAgAAAEABBAACAUATIAAAE=</HashCode>
+      <FileName>HeaderLaba7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesReport_7&lt;T&gt;">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAiAAAAgAAAAAAAAABIwAAAABAA=</HashCode>
+      <FileName>HeaderLaba7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransactionManager_7&lt;T&gt;">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAEQAAAAAAAAAAAAIAAAAiAAAAIIAAACIAAAAAAAAgA=</HashCode>
+      <FileName>HeaderLaba7.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

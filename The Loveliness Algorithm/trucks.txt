@@ -1,0 +1,15 @@
+Actros,180000,25.0
+Arocs,160000,20.0
+Atego,120000,15.0
+Econic,90000,10.0
+Unimog,220000,30.0
+Antos,140000,18.0
+Axor,110000,12.0
+Zetros,190000,22.0
+Atego_Compact,80000,8.0
+Econic_HD,100000,11.0
+Actros_L,200000,28.0
+Arocs_SLT,170000,21.0
+Unimog_U500,240000,35.0
+Econic_Low_Entry,95000,9.5
+Actros_MP4,185000,26.0
